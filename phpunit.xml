@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+	<testsuites>
+		<testsuite name="Application Test Suite">
+            <directory>./phpUnitTutorial/Test/</directory>
+        </testsuite>
+		<!--<testsuite name="unit">
+			<directory>./phpUnitTutorial/</directory>
+		</testsuite>
+		<testsuite name="payment">
+			<file>./phpUnitTutorial/PaymentTest.php</file>
+		</testsuite>
+		<testsuite name="bad">
+			<file>./phpUnitTutorial/BadCodeTest.php</file>
+		</testsuite>
+		<testsuite name="spies">
+			<file>./phpUnitTutorial/AlphaTest.php</file>
+		</testsuite>
+		<testsuite name="trait">
+			<file>./phpUnitTutorial/RegistryTest.php</file>
+		</testsuite>-->
+	</testsuites>
+</phpunit>
