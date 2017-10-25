@@ -1,0 +1,12 @@
+{
+    "require": {
+		"doctrine/dbal": "2.2.*",
+		"authorizenet/authorizenet": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "phpUnitTutorial": ""
+		}
+    }
+}
